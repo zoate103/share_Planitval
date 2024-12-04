@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "251767781217",
+    "firebase_url": "https://festival-tracker-5b899-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "festival-tracker-5b899",
+    "storage_bucket": "festival-tracker-5b899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251767781217:android:273090a6845b6693293720",
+        "android_client_info": {
+          "package_name": "com.example.festival_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251767781217-36ovsis32e8f80nephj5bbjpr47c88mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNiyhJtTUA2258L-oU2xhowR9yLWdsR9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251767781217-36ovsis32e8f80nephj5bbjpr47c88mo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251767781217-qts326squ3atlbmegqgvh9c1qg14ffi6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.festivalTrackerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
